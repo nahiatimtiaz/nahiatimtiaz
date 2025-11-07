@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahiatimtiaz&layout=compact&theme=tokyonight)
 
 🧩 Goals<br/>
-
-Stay consistent and ahead of my classes each semester<br/>
+Stay consistent 💪 <br/>
 Build interactive real-world projects that merge tech + creativity<br/>
 Keep learning, teaching, and growing 🚀<br/>
 
